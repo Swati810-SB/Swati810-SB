@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Swati Bagria 👋
 
-<!--
-**Swati810-SB/Swati810-SB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Biotechnology Student at VIT**
 
-Here are some ideas to get you started:
+🔬 **Interested in:**
+- Machine Learning
+- Bioinformatics
+- Data Science
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills:**
+- Python
+- Git & GitHub
+- Data Analysis
+- Machine Learning
+
+🌱 **Currently Learning:**
+- SQL
+- AWS AI
+- Data Structures & Algorithms
+
+📂 **Featured Projects:**
+- Protein Structure Prediction
+- Gene Expression Analysis
+
+📫 **Connect with me:**
+- [LinkedIn](linkedin.com/in/swati-bagria )
+- [Email](bagriaswati8@gmail.com)
