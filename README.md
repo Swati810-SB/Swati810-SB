@@ -22,6 +22,7 @@
 📂 **Featured Projects:**
 - Protein Structure Prediction
 - Gene Expression Analysis
+- Bioinformatics Chatbot
 
 📫 **Connect with me:**
 - [LinkedIn](linkedin.com/in/swati-bagria )
